@@ -7,4 +7,4 @@ I'm Bikash Timsina
 - 👯 I’m looking to collaborate on deep learning projects.
 - ⚡ Fun fact: It's truly hard to realize your impermanence. Clearly wisdom != knowledge
 
-![Bikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=bi-kash&show_icons=true&theme=radical)
+![Bikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=bi-kash&show_icons=true&theme=radical&hide=stars)
