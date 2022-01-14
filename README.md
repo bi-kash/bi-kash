@@ -2,8 +2,8 @@
 
 I'm Bikash Timsina
 
-- 🔭 I’m currently working in [InferStat Ltd](https://inferstat.com/) as a python backend developer.
-- 🌱 I’m currently learning machine learning, and deep learning.
+- 🔭 I’m currently working as a machine learning engineer.
+- 🌱 I’m currently learning deep learning.
 - 👯 I’m looking to collaborate on deep learning projects.
 - ⚡ Fun fact: Nothing lasts forever.
 
