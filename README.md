@@ -2,7 +2,7 @@
 
 I'm Bikash Timsina
 
-- 🔭 I’m currently working as a machine learning engineer.
-- 🌱 I’m currently learning deep learning.
-- 👯 I’m looking to collaborate on deep learning projects.
+- 🔭 I’m currently working as a python developer.
+- 🌱 I’m currently learning machine learning and data science.
+- 👯 I’m looking to collaborate AI projects.
 - ⚡ Fun fact: Nothing lasts forever.
